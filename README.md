@@ -1,17 +1,20 @@
 <h1 align="center">Hola 👋, mi nombre es Santiago Ortiz Diaz</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santiagoortizdíaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagoortizdíaz" height="30" width="40" /></a>
-<a href="https://instagram.com/santiortizd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiortizd" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Sobre mi:</h3>
 <P>
 Soy ingeniero mecatrónico y Desarrollador web FullStack, con mas de 1 año de experiencia enfocada en el desarrollo y el campo TI, en empresas nacionales del sector industrial, automatización y telecomunicaciones con base en el manejo de lenguajes de programación de alto y bajo nivel como; JavaScript enfocada al desarrollo Web, lenguaje C y Arduino orientada a sistemas embebidos y lenguajes de automatización industrial enfocada a PLC, Mis metas y responsabilidades se han basado en logros de objetivos claros para el desarrollo interno y crecimiento de las empresas a las que he pertenecido, mejorando procesos internos y externos de las mismas.
 
 Trabajo enfocado y orientado a resultados por medio de la investigación, rápido aprendizaje y pensamiento critico, para cumplir con puntualidad y responsabilidad en las distintas actividades que realizo.
+</p>
+
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santiagoortizdíaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagoortizdíaz" height="30" width="40" /></a>
+<a href="https://instagram.com/santiortizd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiortizd" height="30" width="40" /></a>
+<a href="https://wa.me/573106224956" target="blank"><img align="center" src="https://faq.whatsapp.com/images/presma/whatsapp/whatsapp_logo-2x.png" alt="santiortizd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
